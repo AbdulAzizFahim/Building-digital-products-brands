@@ -1,0 +1,28 @@
+# 🛠️ SASS Landing Page
+
+🌟 A **simple front-end web app** to visualize a clothing shop.
+
+🔗 **Live Demo:** [https://building-digital-products-brands-five.vercel.app/]([https://cloth-shop-psi.vercel.app/](https://building-digital-products-brands-five.vercel.app/))
+
+---
+
+## ✨ Features
+
+✅ Browse the landing page of a SASS. 
+✅ Clean and minimal user interface  
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+### 📂 Clone the repository
+
+```bash
+git clone [https://github.com/your-username/cloth-shop.git](https://github.com/AbdulAzizFahim/Building-digital-products-brands.git)
+cd SASS Landing Page
+npm install
+npm run dev
+http://localhost:3000
+
