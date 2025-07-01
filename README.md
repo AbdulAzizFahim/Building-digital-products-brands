@@ -20,7 +20,7 @@ Follow these steps to run the project locally:
 ### 📂 Clone the repository
 
 ```bash
-git clone [https://github.com/your-username/cloth-shop.git](https://github.com/AbdulAzizFahim/Building-digital-products-brands.git)
+clone the project
 cd SASS Landing Page
 npm install
 npm run dev
