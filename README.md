@@ -1,6 +1,6 @@
 # 🛠️ SASS Landing Page
 
-🌟 A **simple front-end web app** to visualize a clothing shop.
+🌟 A **simple front-end web app** to visualize landing page.
 
 🔗 **Live Demo:** [View Site](https://building-digital-products-brands-five.vercel.app/)
 
