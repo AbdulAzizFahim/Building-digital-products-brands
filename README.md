@@ -2,7 +2,7 @@
 
 🌟 A **simple front-end web app** to visualize a clothing shop.
 
-🔗 **Live Demo:** [https://building-digital-products-brands-five.vercel.app/]([https://cloth-shop-psi.vercel.app/](https://building-digital-products-brands-five.vercel.app/))
+🔗 **Live Demo:** [View Site](https://building-digital-products-brands-five.vercel.app/)
 
 ---
 
